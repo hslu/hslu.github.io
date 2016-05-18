@@ -16,7 +16,6 @@ http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-control
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-controlling-management-and-information-84939/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-controlling-management-and-information-84939
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-finanzdienstleistungen-und-corporate-finance-84969/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-finanzdienstleistungen-und-corporate-finance-84969/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-finanzdienstleistungen-und-corporate-finance-84969/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-finanzdienstleistungen-und-corporate-finance-84969/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-finanzdienstleistungen-und-corporate-finance-84969/5-semester
@@ -72,6 +71,7 @@ http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-dual-84A34/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-dual-84A34/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-dual-84A34
+http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927
