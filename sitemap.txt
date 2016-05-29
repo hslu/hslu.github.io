@@ -64,6 +64,7 @@ http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-logisti
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-marketing-84936
@@ -74,6 +75,7 @@ http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflege-dual-84A34
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-pflegepaedagogik-84927
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/bachelor-soziale-arbeit-84210/2-semester
@@ -111,9 +113,9 @@ http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-internati
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-international-marketing-management-90783
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-90915/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-90915
-http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-management-consulting-90799/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-management-consulting-90799/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-management-consulting-90799/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-management-consulting-90799/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-logistik-management-consulting-90799
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-soziale-arbeit-90716/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-sommersemester-2016/master-soziale-arbeit-90716/3-semester
