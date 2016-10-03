@@ -27,7 +27,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-he
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-hebammenwesen-dual-84A33/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-hebammenwesen-dual-84A33/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-hebammenwesen-dual-84A33
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-business-management-east-asia-84755221/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-business-management-east-asia-84755221/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-business-management-east-asia-84755221/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-business-management-east-asia-84755221
@@ -52,6 +51,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-in
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-84980
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-logistik-dual-84A04/1-semester
