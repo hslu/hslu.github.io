@@ -1,6 +1,4 @@
 http://hslu.github.io/speiseplan
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-berufsintegrierendes-studium-bis-betriebswirtschaft-84976/20162-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-berufsintegrierendes-studium-bis-betriebswirtschaft-84976
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/3-semester
@@ -16,6 +14,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-co
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-controlling-84770/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-controlling-84770
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-finanzdienstleistungen-und-corporate-finance-84969/1-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-finanzdienstleistungen-und-corporate-finance-84969/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-finanzdienstleistungen-und-corporate-finance-84969/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-finanzdienstleistungen-und-corporate-finance-84969/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-finanzdienstleistungen-und-corporate-finance-84969/5-semester
@@ -44,6 +43,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-in
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-management-eastern-europe-84A86/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-management-eastern-europe-84A86/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-management-eastern-europe-84A86/5-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-management-eastern-europe-84A86/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-international-management-eastern-europe-84A86
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-internationales-personalmanagement-und-organisation-84937/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-internationales-personalmanagement-und-organisation-84937/2-semester
@@ -82,7 +82,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-so
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-soziale-arbeit-84210/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-soziale-arbeit-84210
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/5-semester
@@ -92,11 +91,8 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/4-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-berufsintegrierendes-studium-bis-betriebswirtschaft-90976/20162-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-berufsintegrierendes-studium-bis-betriebswirtschaft-90976
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/3-semester
@@ -115,6 +111,8 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-inte
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-90915/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-90915/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-90915
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/1-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-soziale-arbeit-90716/2-semester
