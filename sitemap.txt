@@ -22,7 +22,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-fi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-gesundheitsoekonomie-im-praxisverbund-84974/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-gesundheitsoekonomie-im-praxisverbund-84974/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-gesundheitsoekonomie-im-praxisverbund-84974/5-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-gesundheitsoekonomie-im-praxisverbund-84974/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-gesundheitsoekonomie-im-praxisverbund-84974
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-hebammenwesen-dual-84A33/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-hebammenwesen-dual-84A33/3-semester
@@ -85,7 +84,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-we
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/5-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-weinbau-und-oenologie-84227
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/2-semester
@@ -93,6 +91,8 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-berufsintegrierendes-studium-bis-betriebswirtschaft-90976/20162-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-berufsintegrierendes-studium-bis-betriebswirtschaft-90976
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-controlling-90770/3-semester
@@ -114,6 +114,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-soziale-arbeit-90716/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-soziale-arbeit-90716
