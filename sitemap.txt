@@ -4,7 +4,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-be
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/5-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-betriebswirtschaftliche-steuerlehre-und-wirtschaftspruefung-84746
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-controlling-84770/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-controlling-84770/2-semester
@@ -71,7 +70,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pf
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflege-dual-84A34/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflege-dual-84A34/8-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflege-dual-84A34
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflegepaedagogik-84927/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflegepaedagogik-84927/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflegepaedagogik-84927/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-pflegepaedagogik-84927
@@ -89,6 +87,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/4-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/bachelor-wirtschaftsinformatik-84277
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-berufsintegrierendes-studium-bis-betriebswirtschaft-90976/20162-semester
@@ -114,7 +113,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/3-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-logistik-management-consulting-90799
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-soziale-arbeit-90716/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-soziale-arbeit-90716
@@ -123,4 +121,5 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-vers
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-wirtschaftsinformatik-mit-schwerpunkt-information-management-consulting-90278/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-wirtschaftsinformatik-mit-schwerpunkt-information-management-consulting-90278/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-wirtschaftsinformatik-mit-schwerpunkt-information-management-consulting-90278/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-wirtschaftsinformatik-mit-schwerpunkt-information-management-consulting-90278/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2016-2017/master-wirtschaftsinformatik-mit-schwerpunkt-information-management-consulting-90278
