@@ -99,6 +99,13 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-so
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/1-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/2-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/4-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/5-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227/6-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-weinbau-und-oenologie-84227
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-wirtschaftsinformatik-84277/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-wirtschaftsinformatik-84277/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-wirtschaftsinformatik-84277/3-semester
@@ -129,8 +136,9 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-inte
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-90915/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-90915/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-90915
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-management-consulting-90799/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-management-consulting-90799/2-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-management-consulting-90799/3-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-management-consulting-90799/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logistik-management-consulting-90799
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-soziale-arbeit-90716/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-soziale-arbeit-90716
