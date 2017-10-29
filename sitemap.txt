@@ -52,17 +52,12 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-in
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86/4-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86/5-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86/6-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-international-management-eastern-europe-84A86
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/2-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/3-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/4-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/5-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-betriebswirtschaftslehre-international-business-administration-84C22
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-wirtschaftsinformatik-international-business-administration-and-information-technology-84C29/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-wirtschaftsinformatik-international-business-administration-and-information-technology-84C29/2-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-wirtschaftsinformatik-international-business-administration-and-information-technology-84C29/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationale-wirtschaftsinformatik-international-business-administration-and-information-technology-84C29
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationales-personalmanagement-und-organisation-84937/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-internationales-personalmanagement-und-organisation-84937/2-semester
@@ -74,6 +69,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-lo
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-84980/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-84980/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-84980/4-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-84980/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-84980
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-dual-84A04/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-logistik-dual-84A04/3-semester
@@ -95,7 +91,6 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-pf
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-pflegepaedagogik-84927/6-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-pflegepaedagogik-84927
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/5-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210/7-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/bachelor-soziale-arbeit-84210
@@ -123,8 +118,8 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-cont
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-finance-accounting-90775/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-finance-accounting-90775/3-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-finance-accounting-90775
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-finance-strategie-und-accounting-90B32/1-semester
-http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-finance-strategie-und-accounting-90B32
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-human-resources-management-90922/1-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-human-resources-management-90922
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-innovation-management-90771/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-innovation-management-90771/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-innovation-management-90771/3-semester
@@ -143,6 +138,7 @@ http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-logi
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-soziale-arbeit-90716/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-soziale-arbeit-90716
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-versorgungssteuerung-im-gesundheitswesen-health-care-management-90A69/1-semester
+http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-versorgungssteuerung-im-gesundheitswesen-health-care-management-90A69/2-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-versorgungssteuerung-im-gesundheitswesen-health-care-management-90A69
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-wirtschaftsinformatik-mit-schwerpunkt-data-science-consulting-90279/1-semester
 http://hslu.github.io/vorlesungsverzeichnis-wintersemester-2017-2018/master-wirtschaftsinformatik-mit-schwerpunkt-data-science-consulting-90279
