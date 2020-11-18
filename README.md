@@ -15,4 +15,4 @@ Roli Christen
 
 
 ----
-Inoffizielles Hochschulportal mit Vorlesungsverzeichnis und Mensa-Speiseplan für die Hochschule Ludwigshafen am Rhein
+(Inoffizielles Hochschulportal mit Vorlesungsverzeichnis und Mensa-Speiseplan für die Hochschule Ludwigshafen am Rhein)
