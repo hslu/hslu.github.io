@@ -8,6 +8,7 @@ Unsere Website sowie unsere offizielle Abkürzung lautet "HSLU".
 
 Ihr Organization-Account auf github lautet auf diese Abkürzung. Ihre Institution wird aber AFAIK mit "HWG-LU" abgekürzt.
 Darf ich Sie bitten mich zu kontaktieren unter roland.christen@hslu.ch um eine Bereinigung der Namen zu besprechen?
+
 Besten Dank und freundliche Grüsse
 
 Roli Christen
