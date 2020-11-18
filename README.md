@@ -1,6 +1,6 @@
 ## Bitte um Kontaktaufnahme
 
-Geschätzer Owner der github organization "HSLU".
+Geschätzter Owner der github organization "HSLU".
 Ich hatte keine andere Möglichkeit gefunden Sie zu kontaktieren - deshalb hiermit via PR.
 
 Ich bin Mitarbeiter an der HSLU - der Hochschule Luzern in der Schweiz.
