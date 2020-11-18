@@ -1,5 +1,4 @@
-# hslu.github.io
-# Inoffizielles Hochschulportal mit Vorlesungsverzeichnis und Mensa-Speiseplan für die Hochschule Ludwigshafen am Rhein
+## Bitte um Kontaktaufnahme
 
 Geschätzer Owner der github organization "HSLU".
 Ich hatte keine andere Möglichkeit gefunden Sie zu kontaktieren - deshalb hiermit via PR.
@@ -12,3 +11,8 @@ Darf ich Sie bitten mich zu kontaktieren unter roland.christen@hslu.ch um eine B
 Besten Dank und freundliche Grüsse
 
 Roli Christen
+
+
+
+----
+Inoffizielles Hochschulportal mit Vorlesungsverzeichnis und Mensa-Speiseplan für die Hochschule Ludwigshafen am Rhein
